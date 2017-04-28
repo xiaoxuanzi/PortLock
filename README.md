@@ -7,7 +7,7 @@ Cross process lock on linux, make sure one process executes only in one instance
 * Create a dynamic library called protlock.so
 * Load protlock.so directly from within Lua
 
-##How to use
+## How to use
 * make<br>
   Create protlock.so
 * example
